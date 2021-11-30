@@ -1,0 +1,12 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#ccff90</color>
+  <color name="primaryLightColor">#ffffc2</color>
+  <color name="primaryDarkColor">#99cc60</color>
+  <color name="secondaryColor">#2e7d32</color>
+  <color name="secondaryLightColor">#60ad5e</color>
+  <color name="secondaryDarkColor">#005005</color>
+  <color name="primaryTextColor">#000000</color>
+  <color name="secondaryTextColor">#ffffff</color>
+  <color name= "orange_or">#EC7000</color>
+</resources>

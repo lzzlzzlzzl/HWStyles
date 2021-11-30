@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="text">Выбери один из вариантов. Победишь?</string>
+    <string name="rock">Камень</string>
+    <string name="scissors">Ножницы</string>
+    <string name="paper">Бумага</string>
+    <string name="text_advice">Хочешь испытать свою удачу?</string>
+</resources>
